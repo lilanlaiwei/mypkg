@@ -12,7 +12,7 @@
 
 ## 実行例
 ```
-ros2 launch mypkg talk_listen.launch.py
+$ ros2 launch mypkg talk_listen.launch.py
 ```
 talkerから/countupを通じてlistenerにメッセージを送信し、表示する。
 
