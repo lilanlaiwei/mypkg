@@ -18,13 +18,15 @@ talkerから/countupを通じてlistenerにメッセージを送信し、表示�
 
 ## 結果
 ```
-[listener-2] [INFO] [1672576645.404412479] [listener]: Listen: 0
-[listener-2] [INFO] [1672576645.861709843] [listener]: Listen: 1
-[listener-2] [INFO] [1672576646.362042525] [listener]: Listen: 2
-[listener-2] [INFO] [1672576646.861349089] [listener]: Listen: 3
-[listener-2] [INFO] [1672576647.361680882] [listener]: Listen: 4
-[listener-2] [INFO] [1672576647.862018433] [listener]: Listen: 5
-[listener-2] [INFO] [1672576648.362095711] [listener]: Listen: 6
+・
+・
+・
+[listener-2] [INFO] [1672579712.024946200] [listener]: Listen:0
+[listener-2] [INFO] [1672579712.498224600] [listener]: Listen:1
+[listener-2] [INFO] [1672579712.998138400] [listener]: Listen:2
+[listener-2] [INFO] [1672579713.498063500] [listener]: Listen:3
+[listener-2] [INFO] [1672579713.998130800] [listener]: Listen:4
+[listener-2] [INFO] [1672579714.498274700] [listener]: Listen:5
 ・
 ・
 ・
