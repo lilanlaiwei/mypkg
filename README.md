@@ -1,4 +1,5 @@
 # mypkg
+[![test](https://github.com/lilanlaiwei/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/lilanlaiwei/mypkg/actions/workflows/test.yml)
 
 ## 概要
 * ロボットシステム学の課題で作成したリポジトリです。
